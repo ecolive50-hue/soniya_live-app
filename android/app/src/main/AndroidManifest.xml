@@ -4,7 +4,7 @@
 
     <application
         android:name="${applicationName}"
-        android:label="soniya_live"
+        android:label="Soniya Live"
         android:icon="@mipmap/ic_launcher">
 
         <activity
@@ -29,5 +29,6 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
+
     </application>
 </manifest>
